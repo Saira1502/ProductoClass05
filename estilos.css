@@ -1,0 +1,48 @@
+body {
+    background-color: lightblue;
+   }
+   h1 {
+    color: navy;
+    margin-left: 20px;
+   }
+
+ h1.color1 {
+    background-color: dodgerblue;
+ }
+
+p.color11 {
+    background-color: tomato;
+}
+
+h1.color2 {
+  border: 2dvi #FF6347;
+  border-style: solid;
+  
+}
+
+h1.color22 {
+    border: 2dvi #1E90FF;
+    border-style: solid;
+    
+  }
+
+  h1.color23 {
+    border: 2dvi #EE82EE;
+    border-style: solid;
+    
+  }
+
+  p.color3 {
+    color: rgb(255,99,71);
+  }
+
+  p.color32 {
+    color: rgb(30,144,255);
+  }
+
+  p.color33 {
+    color: rgb(238,130,238);
+  }
+
+
+  
